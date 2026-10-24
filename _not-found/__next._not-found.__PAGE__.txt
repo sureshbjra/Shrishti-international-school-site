@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+:HL["/Shrishti-international-school-site/_next/static/chunks/1gg8ctt694c76.css","style"]
+:HL["/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+2:Ta02,
+@font-face {
+  font-family: "Baloo Thambi 2";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400 800;
+  src: url("/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329,
+    U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Baloo Thambi 2";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400 800;
+  src: url("/Shrishti-international-school-site/fonts/baloo-thambi-2-tamil-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200C-200D, U+20B9, U+25CC;
+}
+@font-face {
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("/Shrishti-international-school-site/fonts/hind-madurai-latin-400-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329,
+    U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("/Shrishti-international-school-site/fonts/hind-madurai-latin-500-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329,
+    U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("/Shrishti-international-school-site/fonts/hind-madurai-latin-600-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329,
+    U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("/Shrishti-international-school-site/fonts/hind-madurai-tamil-400-normal.woff2") format("woff2");
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200C-200D, U+20B9, U+25CC;
+}
+@font-face {
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("/Shrishti-international-school-site/fonts/hind-madurai-tamil-600-normal.woff2") format("woff2");
+  unicode-range: U+0964-0965, U+0B82-0BFA, U+200C-200D, U+20B9, U+25CC;
+}
+7:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$Ld","p":"$@e","v":null,"s":"$7"}}]]
+8:[["children",{"s":"/_not-found","h":96,"d":{"r":"$L9","p":"$@a","v":"$b","s":"$7"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Shrishti-international-school-site/_next/static/chunks/1gg8ctt694c76.css","precedence":"next"}],["$","script","script-0",{"src":"/Shrishti-international-school-site/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.classList.add('js')"}}],["$","link",null,{"rel":"preconnect","href":"https://videos.pexels.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://images.pexels.com"}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],[["$","link","/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2",{"rel":"preload","href":"/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],"$L3"],"$L4"]}],"$L5"]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":"$Lf","p":"$@10","v":null,"s":"$7"}},"a":"$@11","u":"$@12","b":"ArLPGaTbkro8KsMaodQH9"}
+13:"/Shrishti-international-school-site/_next/static/chunks/0umf92h1sb77c.js"
+14:I[39756,["$13"],"default"]
+15:I[37457,["$13"],"default"]
+16:I[97367,["$13"],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:"ViewportBoundary"
+1a:I[97367,["$13"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$13"],"$1b"]
+1d:I[27201,["$13"],"IconMark"]
+:HL["/Shrishti-international-school-site/fonts/hind-madurai-latin-400-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+3:["$","link","/Shrishti-international-school-site/fonts/hind-madurai-latin-400-normal.woff2",{"rel":"preload","href":"/Shrishti-international-school-site/fonts/hind-madurai-latin-400-normal.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}]
+4:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Preschool\",\"name\":\"Shrishti Kinder International School\",\"url\":\"https://shrishtikinderinternational.school/\",\"logo\":\"https://shrishtikinderinternational.school/correctedlogo.png\",\"telephone\":\"+917397773618\",\"email\":\"shrishtikinderinternationalschool@gmail.com\",\"foundingDate\":\"2009\",\"parentOrganization\":{\"@type\":\"Organization\",\"name\":\"Jeevanantham Educational Trust\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Kattaikadu, Ammandivillai\",\"addressLocality\":\"Nagercoil\",\"addressRegion\":\"Tamil Nadu\",\"postalCode\":\"629204\",\"addressCountry\":\"IN\"}}"}}]
+5:["$","body",null,{"children":["$","$L14",null,{"parallelRouterKey":"children","template":["$","$L15",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]
+9:["$","$1","c",{"children":[null,["$","$L14",null,{"parallelRouterKey":"children","template":["$","$L15",null,{}]}]]}]
+d:["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$5:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$5:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$5:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$5:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],null,["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}]
+f:["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#12355b"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shrishti Kinder International School | Best Kindergarten in Nagercoil, Kanyakumari"}],["$","meta","1",{"name":"description","content":"Kindergarten and international preschool in Nagercoil, Kanyakumari District, Tamil Nadu. Admissions open for Play Group, Pre KG, LKG and UKG 2026–2027. Call +91 73977 73618."}],["$","meta","2",{"name":"author","content":"Shrishti Kinder International School"}],["$","link","3",{"rel":"manifest","href":"/Shrishti-international-school-site/manifest.webmanifest"}],["$","meta","4",{"name":"keywords","content":"best kindergarten school kanyakumari,international school nagercoil,kindergarten admission kanyakumari,pre kg school nagercoil,shrishti kinder international school,best preschool tamil nadu"}],["$","meta","5",{"name":"robots","content":"noindex, nofollow"}],["$","meta","6",{"property":"og:title","content":"Shrishti Kinder International School, Nagercoil"}],["$","meta","7",{"property":"og:description","content":"A warm, safe first school for children aged 2 to 6 in Kanyakumari District: play-based learning, smart classrooms and caring teachers."}],["$","meta","8",{"property":"og:url","content":"https://shrishtikinderinternational.school/"}],["$","meta","9",{"property":"og:site_name","content":"Shrishti Kinder International School"}],["$","meta","10",{"property":"og:locale","content":"en_IN"}],["$","meta","11",{"property":"og:image","content":"https://images.unsplash.com/photo-1692269725827-699e04a11cdf?w=1200&h=630&auto=format&fit=crop&q=80"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Shrishti Kinder International School"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Shrishti Kinder International School, Nagercoil"}],["$","meta","18",{"name":"twitter:description","content":"A warm, safe first school for children aged 2 to 6 in Kanyakumari District: play-based learning, smart classrooms and caring teachers."}],["$","meta","19",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1692269725827-699e04a11cdf?w=1200&h=630&auto=format&fit=crop&q=80"}],["$","meta","20",{"name":"twitter:image:alt","content":"Shrishti Kinder International School"}],["$","meta","21",{"name":"twitter:image:width","content":"1200"}],["$","meta","22",{"name":"twitter:image:height","content":"630"}],["$","link","23",{"rel":"icon","href":"/Shrishti-international-school-site/favicon.ico?favicon.0yt_ijt5_uhfk.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","24",{"rel":"icon","href":"/Shrishti-international-school-site/icon.png?icon.0ap7oc_xizezi.png","sizes":"192x192","type":"image/png"}],["$","link","25",{"rel":"apple-touch-icon","href":"/Shrishti-international-school-site/apple-icon.png?apple-icon.1ks8jnhl8jsuy.png","sizes":"180x180","type":"image/png"}],["$","$L1d","26",{}]]}]}],null]}],null]}]
+18:null
+12:true
+7:300
+7:C
+11:0
+a:"$undefined"
+10:"$undefined"
+e:"$undefined"
+6:"$undefined"
