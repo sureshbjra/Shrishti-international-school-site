@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sureshbjra.github.io/Shrishti-international-school-site/sitemap.xml
