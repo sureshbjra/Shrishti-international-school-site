@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-:HL["/Shrishti-international-school-site/_next/static/chunks/1lfz_elhti5md.css","style"]
+:HL["/Shrishti-international-school-site/_next/static/chunks/1nxjjvc58vqcu.css","style"]
 :HL["/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 2:Ta02,
 @font-face {
@@ -63,7 +63,7 @@
   unicode-range: U+0964-0965, U+0B82-0BFA, U+200C-200D, U+20B9, U+25CC;
 }
 8:X
-0:{"t":{"t":{"s":"","h":16,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Shrishti-international-school-site/_next/static/chunks/1lfz_elhti5md.css","precedence":"next"}],["$","script","script-0",{"src":"/Shrishti-international-school-site/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"en-IN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.classList.add('js')"}}],["$","link",null,{"rel":"preconnect","href":"https://videos.pexels.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://images.pexels.com"}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],[["$","link","/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2",{"rel":"preload","href":"/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],"$L3"],"$L4","$L5"]}],"$L6"]}]]}],"p":"$@7","v":null,"s":"$8"}}},"a":"$@9","u":"$@a","b":"ipgpyel4a0EkExunXZq2g"}
+0:{"t":{"t":{"s":"","h":16,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Shrishti-international-school-site/_next/static/chunks/1nxjjvc58vqcu.css","precedence":"next"}],["$","script","script-0",{"src":"/Shrishti-international-school-site/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"en-IN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.classList.add('js')"}}],["$","link",null,{"rel":"preconnect","href":"https://videos.pexels.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://images.pexels.com"}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],[["$","link","/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2",{"rel":"preload","href":"/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],"$L3"],"$L4","$L5"]}],"$L6"]}]]}],"p":"$@7","v":null,"s":"$8"}}},"a":"$@9","u":"$@a","b":"SG1z6F65u2CLNIcyIeJ8w"}
 c:"/Shrishti-international-school-site/_next/static/chunks/0umf92h1sb77c.js"
 d:I[39756,["$c"],"default"]
 e:I[37457,["$c"],"default"]
