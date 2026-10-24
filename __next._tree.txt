@@ -2,4 +2,4 @@
 :HL["/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/Shrishti-international-school-site/fonts/hind-madurai-latin-400-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"B_JX1pS73DPjte3_swITz","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"ruBGTNcEtzRHh5TXv3W2X","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
