@@ -1,0 +1,6 @@
+:HL["/Shrishti-international-school-site/_next/static/chunks/2eju12da-8dsl.css","style"]
+:HL["/Shrishti-international-school-site/fonts/baloo-thambi-2-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/Shrishti-international-school-site/fonts/hind-madurai-latin-400-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"about","h":64,"c":"$Q2"}]]
+0:{"b":"48MOZfD3TNQh2YvBbhsQc","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
